@@ -1,0 +1,16 @@
+D:\Personal\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+D:\Personal\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.exe
+D:\Personal\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.pdb
+D:\Personal\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.csprojResolveAssemblyReference.cache
+D:\Personal\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.exe
+D:\Personal\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.pdb
+D:\Personal\DependencyInjection\DependencyInjection\bin\Debug\Ninject.dll
+D:\Personal\DependencyInjection\DependencyInjection\bin\Debug\Ninject.xml
+D:\dependencyinjection\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+D:\dependencyinjection\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.exe
+D:\dependencyinjection\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.pdb
+D:\dependencyinjection\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.exe
+D:\dependencyinjection\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.pdb
+D:\dependencyinjection\DependencyInjection\DependencyInjection\bin\Debug\Ninject.dll
+D:\dependencyinjection\DependencyInjection\DependencyInjection\bin\Debug\Ninject.xml
+D:\dependencyinjection\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.csprojResolveAssemblyReference.cache
